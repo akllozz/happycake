@@ -8,7 +8,7 @@ const HomePage = () => {
           Bienvenido a <span className="fw-bold happy">Happy Cake</span>
         </h1>
         <h6 className="fst-italic"> El lugar de los pasteles felices </h6>
-        <img src="/public/img/pastel.png" height="300"></img>
+        <img src="../assets/img/pastel.png" height="300" alt="Imagen de un pastel"></img>
       </Container>
     </>
   );
