@@ -16,7 +16,7 @@ function Navigation() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto  ">
             <Nav.Link
-              href="/"
+              href="/happycake"
               style={{ color: "white", textDecoration: "none" }}
             >
               🏠 Home
