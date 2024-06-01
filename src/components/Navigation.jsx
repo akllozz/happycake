@@ -30,7 +30,7 @@ function Navigation() {
           </Nav>
         </Navbar.Collapse>
         <Navbar.Brand
-          href="/"
+          href="/happycake"
           className="justify-content-end"
           style={{ color: "white", textDecoration: "none" }}
         >

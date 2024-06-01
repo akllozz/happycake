@@ -7,7 +7,6 @@ function ContactForm() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Lógica para enviar el formulario aquí
   };
 
   return (
